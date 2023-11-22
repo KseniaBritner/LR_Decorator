@@ -1,0 +1,11 @@
+D:\Курс_II\ООАиП\Decorator\ProgramCoffee\obj\Debug\ProgramCoffee.csproj.AssemblyReference.cache
+D:\Курс_II\ООАиП\Decorator\ProgramCoffee\obj\Debug\ProgramCoffee.csproj.SuggestedBindingRedirects.cache
+D:\Курс_II\ООАиП\Decorator\ProgramCoffee\obj\Debug\ProgramCoffee.csproj.CoreCompileInputs.cache
+D:\Курс_II\ООАиП\Decorator\ProgramCoffee\bin\Debug\ProgramCoffee.exe.config
+D:\Курс_II\ООАиП\Decorator\ProgramCoffee\bin\Debug\ProgramCoffee.exe
+D:\Курс_II\ООАиП\Decorator\ProgramCoffee\bin\Debug\ProgramCoffee.pdb
+D:\Курс_II\ООАиП\Decorator\ProgramCoffee\bin\Debug\Decorator.dll
+D:\Курс_II\ООАиП\Decorator\ProgramCoffee\bin\Debug\Decorator.pdb
+D:\Курс_II\ООАиП\Decorator\ProgramCoffee\obj\Debug\ProgramCoffee.csproj.CopyComplete
+D:\Курс_II\ООАиП\Decorator\ProgramCoffee\obj\Debug\ProgramCoffee.exe
+D:\Курс_II\ООАиП\Decorator\ProgramCoffee\obj\Debug\ProgramCoffee.pdb

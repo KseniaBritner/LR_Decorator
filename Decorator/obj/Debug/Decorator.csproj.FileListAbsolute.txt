@@ -1,0 +1,6 @@
+D:\Курс_II\ООАиП\Decorator\Decorator\bin\Debug\Decorator.dll
+D:\Курс_II\ООАиП\Decorator\Decorator\bin\Debug\Decorator.pdb
+D:\Курс_II\ООАиП\Decorator\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+D:\Курс_II\ООАиП\Decorator\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+D:\Курс_II\ООАиП\Decorator\Decorator\obj\Debug\Decorator.dll
+D:\Курс_II\ООАиП\Decorator\Decorator\obj\Debug\Decorator.pdb

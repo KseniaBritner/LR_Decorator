@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{FD4E20B0-9A6A-4A5F-BBB4-044E07A6B48C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramCoffee", "ProgramCoffee\ProgramCoffee.csproj", "{A4E578E9-D49E-4822-B641-D7CCD71122EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4E20B0-9A6A-4A5F-BBB4-044E07A6B48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4E20B0-9A6A-4A5F-BBB4-044E07A6B48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4E20B0-9A6A-4A5F-BBB4-044E07A6B48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4E20B0-9A6A-4A5F-BBB4-044E07A6B48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E578E9-D49E-4822-B641-D7CCD71122EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E578E9-D49E-4822-B641-D7CCD71122EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E578E9-D49E-4822-B641-D7CCD71122EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E578E9-D49E-4822-B641-D7CCD71122EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9E51B9B-F425-4F0C-9548-21680C43F3EC}
+	EndGlobalSection
+EndGlobal
