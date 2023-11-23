@@ -13,6 +13,8 @@ namespace ProgramCoffee
         {
             Syrup syrupLatte = new Syrup(new Late());
             syrupLatte.Print();
+            Discount discountedSyrupLatte = new Discount(syrupLatte);
+            discountedSyrupLatte.Print(); 
             Limon limonCappuccino = new Limon(new Capuccino());
             limonCappuccino.Print();
             Console.ReadLine();

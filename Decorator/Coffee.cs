@@ -36,7 +36,7 @@ namespace Decorator
 
         public virtual void Print()
         {
-            Console.WriteLine($"Цена кофе: {Price()}$");
+            Console.WriteLine($"Цена кофе: {Price()} руб");
         }
     }
 }

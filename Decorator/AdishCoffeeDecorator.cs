@@ -10,7 +10,7 @@ namespace Decorator
     public class AdishCoffeeDecorator : Coffee
     {
         private Coffee _coffee;
-        public AdishCoffeeDecorator(Coffee coffee) : base(0)
+        public AdishCoffeeDecorator(Coffee coffee, double adishPrice) : base(adishPrice)
         {
             if (coffee == null)
             {
@@ -18,13 +18,9 @@ namespace Decorator
             }
             _coffee = coffee;
         }
-        protected void AddAdish(double adishPrice)
-        {
-            _coffee.SetPrice(_coffee.Price() + adishPrice);
-        }
         public override double Price()
         {
-            return _coffee.Price();
+            return _coffee.Price() + base.Price();
         }
         public override void Print()
         {

@@ -13,7 +13,7 @@ namespace Decorator
         }
         public override void Print()
         {
-            Console.WriteLine($"Цена лате: {Price()}$");
+            Console.WriteLine($"Цена лате: {Price()} руб");
         }
     }
 }

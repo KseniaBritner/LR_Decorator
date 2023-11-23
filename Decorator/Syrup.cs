@@ -8,13 +8,12 @@ namespace Decorator
 {
     public class Syrup : AdishCoffeeDecorator
     {
-        public Syrup(Coffee coffee) : base(coffee)
+        public Syrup(Coffee coffee) : base(coffee, 3)
         {
-            AddAdish(3);
         }
         public override void Print()
         {
-            Console.WriteLine($"Цена кофе с сиропом: {Price()}$");
+            Console.WriteLine($"Цена кофе с сиропом: {Price()} руб");
         }
     }
 }

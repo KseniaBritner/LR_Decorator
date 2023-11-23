@@ -8,7 +8,7 @@ namespace Decorator
 {
     public class Discount : AdishCoffeeDecorator
     {
-        public Discount(Coffee coffee) : base(coffee)
+        public Discount(Coffee coffee) : base(coffee,0)
         {
         }
         public override double Price()
